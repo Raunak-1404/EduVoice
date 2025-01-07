@@ -74,7 +74,7 @@ Eduvoice seeks to revolutionize the educational landscape by transforming static
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Khanba22/edu-voice.git
+   git clone https://github.com/Raunak-1404/EduVoice.git
    ```
 2. Navigate to each folder (`client`, `socket server`, and `llm server`) and install dependencies:
    - **For client**:
@@ -121,5 +121,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For more information or queries, contact:
-- **Email**: mushankhan27@gmail.com 
+- **Email**: jijotiaraunak14@gmail.com
 
